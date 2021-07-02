@@ -1,0 +1,13 @@
+{
+  "name": "query-builder-package",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cd ./vue && npm install && cd ../react && npm install && cd ../",
+    "start-vue": "cd ./vue && npm run serve",
+    "start-react": "cd ./react && npm run start"
+  },
+  "author": "",
+  "license": "ISC"
+}
